@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rejen Thompson</h1>
 <h3 align="center">A CyberSecurity Enthusiast</h3>
 
-- 🔭 I’m currently working on [Hybrid Encryption](https://github.com/thompson005/Hybrid_Encryption)
+- 🔭 I’m currently working on [Enhanced-Security-Monitoring-Project](https://github.com/thompson005/Enhanced-Security-Monitoring-Project)
 
 - 🌱 I’m currently learning **Application Security**
 
