@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Enhanced-Security-Monitoring-Project](https://github.com/thompson005/Enhanced-Security-Monitoring-Project)
 
-- 🌱 I’m currently learning **EJPT cert**
+- 🌱 completed  **EJPT cert**
+
+- currently learning AWS security cert 
 
 - 📝 I Occasionally write articles on [https://rejenthompson.gitbook.io/writeups](https://rejenthompson.gitbook.io/writeups)
 
