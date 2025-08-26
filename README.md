@@ -2,14 +2,14 @@
 <h3 align="center">Security Engineer | Cybersecurity Enthusiast | OWASP Chapter Lead</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Engineer+%40+Rocketlane;Offensive+Security+Specialist;CVE+Researcher;Cloud+Security+Expert;OWASP+Chapter+Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Security+Engineer;Offensive+Security;CVE+Researcher;Cloud+Security;" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🛡️ **Security Engineer Intern @ Rocketlane** | Conducted 12+ critical vulnerability assessments, reducing exploit risk by 30%  
+🛡️ **Security Engineer @ Rocketlane** | Conducted 12+ critical vulnerability assessments, reducing exploit risk by 30%  
 🔍 **Former Offensive Security Engineer @ CyberXtron** | Discovered 7 critical vulnerabilities including 1 CVE  
 📚 **Cybersecurity Content Developer @ Bridge** | Creating hands-on labs and course modules  
 🏆 **OWASP Chapter Lead** at Shiv Nadar University  
@@ -17,39 +17,12 @@
 
 ## 🚀 Current Focus
 
-- 🔭 **Currently Working**: Security engineering at Rocketlane, AWS security audits, DAST automation
-- 🌱 **Learning**: Advanced AWS Security certifications, Cloud security best practices
+- 🔭 **Currently Working**: Security research , AWS security , Automated Pentest Agents
+- 🌱 **Learning**: AWS Security certifications, PT1 
 - 💡 **Building**: [PentestPilot](https://github.com/thompson005/PentestPilot) - Automated web vulnerability scanner
 - 📝 **Writing**: Security writeups and research on [GitBook](https://rejenthompson.gitbook.io/writeups)
-- 🎯 **Goals 2025**: Advance cloud security expertise, contribute to more CVE discoveries
 
-## 💼 Experience Highlights
 
-<details>
-<summary><b>🚀 Rocketlane - Security Engineer Intern (May - August 2025)</b></summary>
-
-- 🔍 Conducted internal web penetration tests identifying **12+ critical issues**
-- ☁️ Performed comprehensive **AWS security audits** across 10+ services
-- 🔧 Automated security processes by integrating **DAST tools** into CI/CD pipeline
-- 📈 Improved workflow efficiency through secure GitHub configurations
-</details>
-
-<details>
-<summary><b>⚔️ CyberXtron - Offensive Security Engineer (Jan - Sep 2024)</b></summary>
-
-- 🎯 Discovered **7 critical vulnerabilities** (including 1 CVE) protecting 5,000+ users
-- 🔨 Built **ShadowSpot** - EASM tool reducing external exposure by 25%
-- 🌐 Developed **DarkFlash** - Dark web monitor processing 10k+ records/month
-- ⚡ Optimized Elasticsearch pipelines improving log ingestion by 35%
-</details>
-
-<details>
-<summary><b>📚 Bridge - Cybersecurity Content Developer (Nov 2024 - Present)</b></summary>
-
-- 📖 Created structured course modules for **10+ cybersecurity topics**
-- 👥 Managing team of 3 contributors for content delivery workflows
-- 📋 Developed setup documentation reducing onboarding time by 50%
-</details>
 
 ## 🛠️ Featured Projects
 
