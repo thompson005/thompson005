@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🛡️ **Security Engineer @ Rocketlane** | Conducted 12+ critical vulnerability assessments, reducing exploit risk by 30%  
+🛡️ ** Former Security Engineer Intern  @ Rocketlane** | Conducted 12+ critical vulnerability assessments, reducing exploit risk by 30%  
 🔍 **Former Offensive Security Engineer @ CyberXtron** | Discovered 7 critical vulnerabilities including 1 CVE  
 📚 **Cybersecurity Content Developer @ Bridge** | Creating hands-on labs and course modules  
 🏆 **OWASP Chapter Lead** at Shiv Nadar University  
