@@ -60,7 +60,7 @@
 - 🏅 **4th Place** - Edita CTF, **6th Place** - VIT CTF
 - 🔓 **CVE Published** for vulnerability in open-source project
 - 🎯 **Bug Bounty**: Reported vulnerabilities on Com Olho and travel website
-- 📚 **40+ TryHackMe Labs** and **30+ PortSwigger Labs** completed
+- 📚 **70+ TryHackMe Labs** and **30+ PortSwigger Labs** completed
 - 🏆 **TryHackMe Advent of Cyber 2024** participant
 
 ## 🎓 Certifications
@@ -138,7 +138,7 @@
   <a href="mailto:rejen22110019@snuchennai.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/rejen-thompson-765271258">
+  <a href="https://linkedin.com/in/rejen-thompson">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://rejenthompson.gitbook.io/writeups">
