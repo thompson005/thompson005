@@ -128,9 +128,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thompson005&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompson005&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ## 📫 Let's Connect!
 
