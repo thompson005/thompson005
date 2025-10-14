@@ -153,6 +153,6 @@
   <img src="https://komarev.com/ghpvc/?username=thompson005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <i>🔐 "Security is not a product, but a process" - Bruce Schneier</i>
-</p>
+</p> -->
