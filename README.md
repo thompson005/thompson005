@@ -70,12 +70,6 @@ PentestPilot is an autonomous penetration testing platform that combines traditi
 **Security Tools:** OWASP ZAP, Nmap, Subfinder, WHOIS  
 **Deployment:** Docker containerization, cloud-ready architecture
 
-#### Development Roadmap
-
-**Q1 2025:** Enhanced CrewAI agent workflows, Nuclei integration, REST API  
-**Q2 2025:** Reinforcement learning models, CI/CD pipelines, Elasticsearch dashboards  
-**Future:** Fully autonomous campaigns, multi-agent swarm intelligence, Kubernetes deployment
-
 ---
 
 ## Selected Projects
@@ -152,4 +146,8 @@ Elasticsearch • Kibana • Logstash • AWS • MITRE ATT&CK • OWASP Top 10
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thompson005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>"The key to security is to assume breach. Don't build your castle walls high; build your ability to detect and respond fast." — Kevin Mitnick</em>
 </p>
