@@ -15,6 +15,7 @@
 Security engineer specializing in offensive security, vulnerability research, and automated security testing. Experienced in discovering and remediating critical vulnerabilities while developing innovative security tooling.
 
 **Security Engineer Intern @ Rocketlane** — Conducted  vulnerability assessments, reducing exploit risk 
+
 **Offensive Security Engineer @ CyberXtron** — Discovered 7 critical vulnerabilities including 1 published CVE  
 **Cybersecurity Content Developer @ Bridge** — Creating hands-on security labs and training modules  
 **OWASP Chapter Lead @ Shiv Nadar University** — Leading educational security initiatives  
